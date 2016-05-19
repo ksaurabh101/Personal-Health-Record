@@ -1,0 +1,34 @@
+SMAP
+userRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 userRegistration.jsp
+userRegistration.jsp
++ 1 topMenuItem.jsp
+topMenuItem.jsp
++ 2 sideBar.jsp
+sideBar.jsp
+*L
+5,25:50
+5#1,122:75
+29#0,5:196
+5#2,13:201
+18,4:215
+21,19:219
+40,2:239
+41,5:241
+46,3:247
+48,16:250
+63,2:266
+64,5:268
+69,3:274
+71,16:277
+87,2:294
+88,19:296
+106,2:315
+107,5:317
+112,2:323
+113,12:325
+33#0,291:336
+*E
