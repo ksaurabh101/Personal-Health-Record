@@ -16,8 +16,8 @@ import javax.mail.internet.MimeMessage;
 
 public class SendMail {
 
-    String d_email = "ipg2011053mtp@yahoo.com",
-            d_password = "8989931108",
+    String d_email = "",
+            d_password = "",
             d_host = "smtp.mail.yahoo.com",
             d_port = "465",
             m_subject = "",
