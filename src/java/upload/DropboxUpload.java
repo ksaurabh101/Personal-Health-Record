@@ -24,9 +24,9 @@ import java.util.logging.Logger;
  */
 public class DropboxUpload {
 
-    final String APP_KEY = "wqk24sgzfbug7zp";
-    final String APP_SECRET = "85g1jgm3wrmsfnk";
-    final String accessToken = "GnsSF65v7bAAAAAAAAAAF16t5Zy2p_HxPbWmR20AG3ySBkhT77pnChDfVmCCqyQA";
+    final String APP_KEY = "";
+    final String APP_SECRET = "";
+    final String accessToken = "";
     DbxAppInfo appInfo;
     DbxRequestConfig config;
     DbxClient client;
